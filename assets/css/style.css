@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
+.flag {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
